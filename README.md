@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm CyberSeeker-Sea
 
-<!--
-**xiaocheny214/xiaocheny214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent Thinker | Tech & Business Practitioner | Documenting Life & Growth | Action-Oriented, Embracing Challenges**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌌 About Me
+I explore the intersection of technology and business, document insights from life, and embrace challenges with curiosity and action.  
+Constantly learning, building, and experimenting in the world of AI, software, and digital experiences.
+
+---
+
+## 🛠 Tech & Tools
+- **Languages:** Go, Python, java,JavaScript/TypeScript  
+- **Frontend:** React, Tailwind CSS  
+- **AI & APIs:** OpenAI, Anthropic, AI Model Integration  
+- **Other:** Git, Docker, CI/CD, Cloud Services  
+
+---
+
+## 🚀 Projects & Work
+| Project | Description | Link |
+|---------|-------------|------|
+| **UniGate AI Gateway** | Aggregating mainstream AI APIs for easy integration | [unigate.top](https://unigate.top) |
+| **Other Project** | Short description of your next project | [Link](#) |
+
+> Only showcasing the most meaningful projects — quality over quantity.
+
+---
+
+## 📈 GitHub Stats
+
+
+---
+
+## 📫 Connect with Me
+- **Website:** [https://unigate.top](https://unigate.top)  
+- **Twitter/X:** [@yourhandle](https://x.com/AsitKotecki)  
+
+---
+
+*“Exploring the unknown, learning from every step, and turning ideas into action.”*
