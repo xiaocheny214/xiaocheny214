@@ -22,7 +22,7 @@ Constantly learning, building, and experimenting in the world of AI, software, a
 | Project | Description | Link |
 |---------|-------------|------|
 | **UniGate AI Gateway** | Aggregating mainstream AI APIs for easy integration | [unigate.top](https://unigate.top) |
-| **Other Project** | Short description of your next project | [Link](#) |
+| **Other Project** |  | [Link](#) |
 
 > Only showcasing the most meaningful projects — quality over quantity.
 
@@ -35,7 +35,7 @@ Constantly learning, building, and experimenting in the world of AI, software, a
 
 ## 📫 Connect with Me
 - **Website:** [https://unigate.top](https://unigate.top)  
-- **Twitter/X:** [@yourhandle](https://x.com/AsitKotecki)  
+- **Twitter/X:** [@AsitKotecki](https://x.com/AsitKotecki)  
 
 ---
 
