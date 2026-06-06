@@ -22,7 +22,7 @@ Constantly learning, building, and experimenting in the world of AI, software, a
 | Project | Description | Link |
 |---------|-------------|------|
 | **UniGate AI Gateway** | Aggregating mainstream AI APIs for easy integration | [unigate.top](https://unigate.top) |
-| **Other Project** |  | [Link](#) |
+| **AI-Launcher** |  | AI CLI Tool · One-Click Deployment [ai-launcher.xyz](https://ai-launcher.xyz) |
 
 > Only showcasing the most meaningful projects — quality over quantity.
 
