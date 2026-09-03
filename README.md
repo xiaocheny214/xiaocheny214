@@ -60,8 +60,6 @@ Interested in **Agent Loop design** (backend-hosted vs frontend orchestration), 
 | Project | Description | Link |
 |---------|-------------|------|
 | **AI-Launcher** | AI CLI Tool · One-Click Deployment | [ai-launcher.xyz](https://ai-launcher.xyz) |
-| **ragent** | 企业级 Agentic RAG · 文档解析 · 多路检索 · MCP 工具调用 | [repo](https://github.com/xiaocheny214/ragent) |
-| **wechat-radar** | 微信聊天情报看板 · 群聊信号聚合与趋势分析 | [repo](https://github.com/xiaocheny214/wechat-radar) |
 
 ---
 
