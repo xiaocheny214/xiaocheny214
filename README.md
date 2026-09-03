@@ -14,7 +14,7 @@
 
 [![Stars](https://img.shields.io/github/stars/1024XEngineer/Windup?style=flat-square&logo=github&label=Stars)](https://github.com/1024XEngineer/Windup/stargazers)
 [![Release](https://img.shields.io/github/v/release/1024XEngineer/Windup?style=flat-square&label=v1.0.0)](https://github.com/1024XEngineer/Windup/releases)
-[![Demo](https://img.shields.io/badge/demo-windup.xin-2458b8?style=flat-square)](https://windup.xin)
+[![Product](https://img.shields.io/badge/product-windup.xin-2458b8?style=flat-square)](https://windup.xin)
 [![Contributors](https://img.shields.io/badge/commits-50%2B-success?style=flat-square)](https://github.com/1024XEngineer/Windup/commits?author=xiaocheny214)
 
 X-Engine 训练营成果延续至七牛实习 · **个人主要贡献后端架构与生产稳定性治理**
@@ -26,7 +26,7 @@ X-Engine 训练营成果延续至七牛实习 · **个人主要贡献后端架�
 | **稳定性** | Worker OOM 治理（[#690](https://github.com/1024XEngineer/Windup/issues/690)–[#716](https://github.com/1024XEngineer/Windup/pull/716)）· 三渲二客户端卸载（[#712](https://github.com/1024XEngineer/Windup/issues/712)/[#714](https://github.com/1024XEngineer/Windup/pull/714)） |
 | **队列 & CI** | 图像/动作分 Stream（[#814](https://github.com/1024XEngineer/Windup/pull/814)）· i2v 并发门禁（[#842](https://github.com/1024XEngineer/Windup/pull/842)）· Codecov（[#168](https://github.com/1024XEngineer/Windup/pull/168)） |
 
-**Links:** [Repository](https://github.com/1024XEngineer/Windup) · [Live Demo](https://windup.xin) · [My Commits](https://github.com/1024XEngineer/Windup/commits?author=xiaocheny214) · [My PRs](https://github.com/1024XEngineer/Windup/pulls?q=is%3Apr+author%3Axiaocheny214)
+**Links:** [Repository](https://github.com/1024XEngineer/Windup) · [Product Site](https://windup.xin) · [My Commits](https://github.com/1024XEngineer/Windup/commits?author=xiaocheny214) · [My PRs](https://github.com/1024XEngineer/Windup/pulls?q=is%3Apr+author%3Axiaocheny214)
 
 ---
 
@@ -65,9 +65,11 @@ Interested in **Agent Loop design** (backend-hosted vs frontend orchestration), 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaocheny214&show_icons=true&theme=default&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/xiaocheny214?style=flat-square&logo=github&label=Followers)](https://github.com/xiaocheny214?tab=followers)
+[![Windup Stars](https://img.shields.io/github/stars/1024XEngineer/Windup?style=flat-square&logo=github&label=Windup%20Stars)](https://github.com/1024XEngineer/Windup/stargazers)
+[![Profile Views](https://komarev.com/ghpvc/?username=xiaocheny214&color=2458b8&style=flat-square&label=Profile+Views)](https://github.com/xiaocheny214)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaocheny214&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=xiaocheny214&hide_border=true&background=FFFFFF&ring=2458b8&fire=2458b8&currStreakLabel=2458b8&sideNums=2458b8&sideLabels=2458b8&dates=596273)
 
 ---
 
@@ -75,7 +77,7 @@ Interested in **Agent Loop design** (backend-hosted vs frontend orchestration), 
 
 - **Email:** 1937790043@qq.com
 - **Twitter/X:** [@AsitKotecki](https://x.com/AsitKotecki)
-- **Windup Demo:** [windup.xin](https://windup.xin)
+- **Windup 产品：** [windup.xin](https://windup.xin) · 已正式上线，团队持续迭代维护
 
 ---
 
