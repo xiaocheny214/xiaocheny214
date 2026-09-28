@@ -1,84 +1,128 @@
-# 👋 Hi, I'm CyberSeeker-Sea
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2458B8&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+fancyboi999!;AI+Engineer+%7C+Agents+%26+RAG;Building+smarter+agentic+systems;From+architecture+to+production" alt="Typing animation" />
+</div>
 
-**AI Application Engineer · Agent Development | Product Architecture**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="460" alt="Coding GIF" />
+</div>
 
-山东工商学院 · 2028 届 · 七牛产品架构实习生 · [github.com/xiaocheny214](https://github.com/xiaocheny214)
+<div align="center">
+  <a href="https://trendshift.io/developers/12312" target="_blank">
+    <img src="https://trendshift.io/api/badge/developers/12312" alt="fancyboi999 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/xiaocheny214?tab=followers"><img src="https://img.shields.io/github/followers/xiaocheny214?style=flat-square&logo=github&label=Followers&color=2458b8" alt="Followers" /></a>
+  <a href="https://github.com/xiaocheny214"><img src="https://komarev.com/ghpvc/?username=xiaocheny214&color=2458b8&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
+  <a href="https://github.com/1024XEngineer/Windup/stargazers"><img src="https://img.shields.io/github/stars/1024XEngineer/Windup?style=flat-square&logo=github&label=Windup%20Stars&color=f59e0b" alt="Windup Stars" /></a>
+</div>
 
 ---
 
-## 🔥 2026 暑假重点 · Summer Highlights
+## 🚀 About Me
 
-> **两个月闭环：** 需求洞察 → 后端架构设计 → 生产上线 → 开源结项 & 社区推流
+**AI Engineer**  
+Focused on **AI / Agents / RAG**.
 
-### ⭐ [Windup](https://github.com/1024XEngineer/Windup) — 2D 游戏素材 AI 生产台
+- 🔭 Building **agentic systems** and **RAG pipelines**
+- 🌱 Exploring **tool use, memory, and orchestration**
+- 💬 Ask me about **LLM agents, RAG, or AI workflows**
+- ⚡ Passionate about turning complex AI concepts into reliable, production-grade applications
+
+---
+
+## 📦 Products
+
+### ⭐ [Windup](https://github.com/1024XEngineer/Windup)
+> **AI Production Platform for 2D Game Assets.**  
+> Turn ideas into production-ready game art and animated assets seamlessly.
 
 [![Stars](https://img.shields.io/github/stars/1024XEngineer/Windup?style=flat-square&logo=github&label=Stars)](https://github.com/1024XEngineer/Windup/stargazers)
-[![Release](https://img.shields.io/github/v/release/1024XEngineer/Windup?style=flat-square&label=v1.0.0)](https://github.com/1024XEngineer/Windup/releases)
-[![Product](https://img.shields.io/badge/product-windup.xin-2458b8?style=flat-square)](https://windup.xin)
-[![Contributors](https://img.shields.io/badge/commits-50%2B-success?style=flat-square)](https://github.com/1024XEngineer/Windup/commits?author=xiaocheny214)
-
-X-Engine 训练营成果延续至七牛实习 · **个人主要贡献后端架构与生产稳定性治理**
-
-| 方向 | 内容 |
-|------|------|
-| **架构** | API/Worker 双进程 · 事务 outbox + Redis Stream · ZSET 延时队列 · 前端 Agent Workflow 编排 + 后端原子 API |
-| **LLM Gateway** | 进程内 Gateway（[#331](https://github.com/1024XEngineer/Windup/pull/331)）· 冷热双表台账 · 429/522/525 统一重试与 Fallback |
-| **稳定性** | Worker OOM 治理（[#690](https://github.com/1024XEngineer/Windup/issues/690)–[#716](https://github.com/1024XEngineer/Windup/pull/716)）· 三渲二客户端卸载（[#712](https://github.com/1024XEngineer/Windup/issues/712)/[#714](https://github.com/1024XEngineer/Windup/pull/714)） |
-| **队列 & CI** | 图像/动作分 Stream（[#814](https://github.com/1024XEngineer/Windup/pull/814)）· i2v 并发门禁（[#842](https://github.com/1024XEngineer/Windup/pull/842)）· Codecov（[#168](https://github.com/1024XEngineer/Windup/pull/168)） |
-
-**Links:** [Repository](https://github.com/1024XEngineer/Windup) · [Product Site](https://windup.xin) · [My Commits](https://github.com/1024XEngineer/Windup/commits?author=xiaocheny214) · [My PRs](https://github.com/1024XEngineer/Windup/pulls?q=is%3Apr+author%3Axiaocheny214)
+[![Live Product](https://img.shields.io/badge/Product-windup.xin-2458b8?style=flat-square)](https://windup.xin)
+[![Repository](https://img.shields.io/badge/Repo-1024XEngineer%2FWindup-black?style=flat-square&logo=github)](https://github.com/1024XEngineer/Windup)
 
 ---
 
-### 🧩 同期 Side Projects
+### 🔮 [Verso](https://github.com/xiaocheny214/verso) `(WIP / Currently Building)`
+> **Matches complementary people, not like-minded ones.**  
+> Pair two minds from different domains to learn what they don't know from each other.
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **claude-skill-voice-dna** | Claude Code Skill · 去 AI 味写作 · 可复用 Voice Samples | [repo](https://github.com/xiaocheny214/claude-skill-voice-dna) |
-| **ai-pr-healer** | MCP PR Reviewer · 自主复现 Bug · 自愈合工作流 | [repo](https://github.com/xiaocheny214/ai-pr-healer) |
-
----
-
-## 🌌 About Me
-
-Building AI applications end-to-end — from product requirements and backend architecture to production reliability and open-source delivery.
-
-Interested in **Agent Loop design** (backend-hosted vs frontend orchestration), **RAG**, prompt engineering, and turning real production incidents into durable system improvements.
+[![Status](https://img.shields.io/badge/Status-In_Active_Development-orange?style=flat-square)](https://github.com/xiaocheny214/verso)
+[![Repository](https://img.shields.io/badge/Repo-xiaocheny214%2Fverso-black?style=flat-square&logo=github)](https://github.com/xiaocheny214/verso)
 
 ---
 
-## 🛠 Tech Stack
+### 🌐 [UniGate](https://unigate.top)
+> **One Gate, Infinite Possibilities.**  
+> A high-performance aggregation and routing gateway.
 
-- **AI Application:** Python · FastAPI · LangChain · LangGraph · RAG · Prompt Engineering · Agent Skill · ReAct / Plan-and-Solve
-- **Backend:** Java · Spring Boot/Cloud · RocketMQ · Redis · PostgreSQL · Milvus
-- **Engineering:** Docker · GitHub Actions · Codecov · Pytest · Import Linter · Git · Linux
-
----
-
-## 📦 Other Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **AI-Launcher** | AI CLI Tool · One-Click Deployment | [ai-launcher.xyz](https://ai-launcher.xyz) |
+[![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)](https://unigate.top)
+[![Website](https://img.shields.io/badge/Website-unigate.top-2458b8?style=flat-square)](https://unigate.top)
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Arsenal
 
-[![GitHub followers](https://img.shields.io/github/followers/xiaocheny214?style=flat-square&logo=github&label=Followers)](https://github.com/xiaocheny214?tab=followers)
-[![Windup Stars](https://img.shields.io/github/stars/1024XEngineer/Windup?style=flat-square&logo=github&label=Windup%20Stars)](https://github.com/1024XEngineer/Windup/stargazers)
-[![Profile Views](https://komarev.com/ghpvc/?username=xiaocheny214&color=2458b8&style=flat-square&label=Profile+Views)](https://github.com/xiaocheny214)
+### AI & Agent Engineering
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-2458B8?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-4F46E5?style=for-the-badge&logo=openai&logoColor=white" alt="Agents" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=xiaocheny214&hide_border=true&background=FFFFFF&ring=2458b8&fire=2458b8&currStreakLabel=2458b8&sideNums=2458b8&sideLabels=2458b8&dates=596273)
+### Backend Technologies
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,redis,postgres,mysql,linux" alt="Backend Technologies" />
+  </a>
+  <img src="https://img.shields.io/badge/RocketMQ-D42027?style=for-the-badge&logo=apache&logoColor=white" alt="RocketMQ" height="48" style="vertical-align: middle; margin-left: 6px;" />
+</p>
+
+### Gateway & Infrastructure
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nginx,docker" alt="Gateway and DevOps" />
+  </a>
+</p>
+
+### Development & AI-Assisted Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,github,git" alt="Dev Tools" />
+  </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+</p>
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Analytics
 
-- **Email:** 1937790043@qq.com
-- **Twitter/X:** [@AsitKotecki](https://x.com/AsitKotecki)
-- **Windup 产品：** [windup.xin](https://windup.xin) · 已正式上线，团队持续迭代维护
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xiaocheny214&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xiaocheny214&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=xiaocheny214&theme=transparent&hide_border=true&ring=2458b8&fire=2458b8&currStreakLabel=2458b8" alt="GitHub Streak" />
+</div>
 
 ---
 
-*"From requirements to architecture, from incidents to systems — ship, learn, iterate."*
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:silasvista@gmail.com">
+    <img src="https://img.shields.io/badge/Email-silasvista%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <em>"Ship, learn, iterate."</em>
+</p>
