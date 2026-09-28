@@ -1,15 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2458B8&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+fancyboi999!;AI+Engineer+%7C+Agents+%26+RAG;Building+smarter+agentic+systems;From+architecture+to+production" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2458B8&center=true&vCenter=true&width=720&lines=%F0%9F%91%8B+Hi%2C+I'm+Silas+Vista!;AI+Engineer+%C2%B7+Agents+%26+RAG;Building+autonomous+systems+%26+RAG+pipelines;From+system+architecture+to+production" alt="Typing animation" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="460" alt="Coding GIF" />
-</div>
-
-<div align="center">
-  <a href="https://trendshift.io/developers/12312" target="_blank">
-    <img src="https://trendshift.io/api/badge/developers/12312" alt="fancyboi999 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55" />
-  </a>
 </div>
 
 <div align="center">
@@ -22,7 +16,7 @@
 
 ## 🚀 About Me
 
-**AI Engineer**  
+**Silas Vista** · **AI Engineer**  
 Focused on **AI / Agents / RAG**.
 
 - 🔭 Building **agentic systems** and **RAG pipelines**
@@ -105,8 +99,8 @@ Focused on **AI / Agents / RAG**.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xiaocheny214&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xiaocheny214&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=xiaocheny214&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xiaocheny214&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
